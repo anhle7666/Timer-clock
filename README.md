@@ -1,3 +1,3 @@
 # Timer-clock
-first project
-<a href="https://anhle7666.github.io/Timer-clock/">Web</a>
+First project using JS: 
+<a href="https://anhle7666.github.io/Timer-clock/">Clock</a>
